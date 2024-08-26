@@ -10,7 +10,12 @@ package com.mycompany.cen4802cassignment1;
  */
 public class CEN4802CAssignment1 {
 
-    //Recursive method to find the nth number
+    //**
+     * Recursive method to find the nth Fibonacci number.
+     *
+     * @param n the position in the Fibonacci sequence
+     * @return the nth Fibonacci number
+     */
     public static int fibonacci(int n) {
         if (n <= 1) {
             return n;
