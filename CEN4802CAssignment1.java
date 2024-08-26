@@ -11,7 +11,7 @@ package com.mycompany.cen4802cassignment1;
 public class CEN4802CAssignment1 {
 
     //add-javadoc-comments
-    //**
+    /*
      * Recursive method to find the nth Fibonacci number.
      *
      * @param n the position in the Fibonacci sequence
